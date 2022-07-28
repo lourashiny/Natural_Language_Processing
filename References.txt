@@ -1,0 +1,10 @@
+1. https://www.nltk.org/book/ch02.html
+2. https://www.nltk.org/howto/corpus.html
+3. https://www.nltk.org/api/nltk.corpus.html
+4. https://sites.pitt.edu/~naraehan/presentation/cmu_dh_workshop_2017.html
+5. https://docs.huihoo.com/nltk/0.9.5/en/ch03.html
+6. https://github.com/shantanuraje/NLTKBook/blob/master/ch2_exercises.py
+7. https://www.nltk.org/api/nltk.tag.html
+8. https://www.geeksforgeeks.org/python-stemming-words-with-nltk/
+9. https://www.geeksforgeeks.org/python-lemmatization-with-nltk/
+10. https://www.geeksforgeeks.org/removing-stop-words-nltk-python/
